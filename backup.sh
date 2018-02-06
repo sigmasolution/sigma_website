@@ -1,3 +1,3 @@
 git add *
 git commit -m "backup"
-git push origin masiter
+git push origin master
